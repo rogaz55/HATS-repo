@@ -1,1 +1,1 @@
-"This is the new new file"
+"This is the evil twin of new.txt"
